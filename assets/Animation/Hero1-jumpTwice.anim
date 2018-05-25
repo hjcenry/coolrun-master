@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "JumpTwice",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.96,
+  "sample": 5,
+  "speed": 2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e5e7a579-a26d-498a-a257-b3a30fffa781"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "2069342e-1fd8-4bed-9779-0ba7ef0543ad"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "32b4dcf5-0eee-4cd2-8977-5c95b9cf6301"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "a320ffb9-1771-450e-93ca-1a58cbfaea91"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "e5e7a579-a26d-498a-a257-b3a30fffa781"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

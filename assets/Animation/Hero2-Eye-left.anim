@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Hero2-Eye-left",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 6.166666666666667,
+  "sample": 6,
+  "speed": 2,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3c017d72-dc91-4b04-9d05-019abac9251e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "2394cc82-5181-4cf6-8bf0-6acc905b3b60"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "ae69d78f-0852-431b-9e8c-c1fcac9954b6"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "2394cc82-5181-4cf6-8bf0-6acc905b3b60"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "3c017d72-dc91-4b04-9d05-019abac9251e"
+            }
+          },
+          {
+            "frame": 6,
+            "value": {
+              "__uuid__": "3c017d72-dc91-4b04-9d05-019abac9251e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

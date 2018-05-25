@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Roll",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 2,
+  "speed": 5,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3eccae74-a281-4c84-9c54-62ccfb56e341"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "4ebfc2cc-2a4e-45ef-8ea7-87cf07ad5a09"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

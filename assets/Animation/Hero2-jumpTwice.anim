@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Hero2-jumpTwice",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.96,
+  "sample": 5,
+  "speed": 2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "36a38b53-ab87-4fa9-89cd-474af7aaae90"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "6a9700bb-a6c3-4912-acae-ec3fc184964f"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "ddff660e-0c17-4157-84b9-2a2447fba886"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "b39ec1a7-3bb7-408b-80c5-0df5e486fbb4"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "36a38b53-ab87-4fa9-89cd-474af7aaae90"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
