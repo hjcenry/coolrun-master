@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ed6a2532-d2cd-4681-8123-b0531a2c5e2b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "game_hero3": {
+      "ver": "1.0.3",
+      "uuid": "6b53b0a3-79d3-4b2c-97a0-71c51a4786d1",
+      "rawTextureUuid": "ed6a2532-d2cd-4681-8123-b0531a2c5e2b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1979,
+      "height": 117,
+      "rawWidth": 1979,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
